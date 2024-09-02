@@ -6,7 +6,6 @@
 <p align='center'>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=imtiazikbal)
-](https://camo.githubusercontent.com/db2cb04e930a51a7e6fd1d1f17c60bc8880aea7a1d7b0144de978704c38210f1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6473616d6926636f6c6f723d627269676874677265656e267374796c653d666c6174)
 </p>
   <div size='20px'> <h3>Hi! My name is Imtiaz Ikbal.</h3>  <h4>A passionate Backend Developer from Bangladesh.</h4> <h4>Thank You for taking the time to view my GitHub Profile :smile: </h4>
 </div>
